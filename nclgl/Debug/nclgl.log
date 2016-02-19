@@ -1,0 +1,20 @@
+﻿Build started 18/02/2015 15:17:03.
+     1>Project "C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\OpenGL Rasteriser\nclgl\nclgl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OGLRenderer.cpp
+         OGLRenderer.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\OpenGL Rasteriser\OpenGLGraphics\Debug\nclgl.lib" /NOLOGO Debug\GameTimer.obj
+         Debug\Keyboard.obj
+         Debug\Matrix3.obj
+         Debug\Matrix4.obj
+         Debug\Mouse.obj
+         Debug\OGLRenderer.obj
+         Debug\Quaternion.obj
+         Debug\Window.obj
+         nclgl.vcxproj -> C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\OpenGL Rasteriser\OpenGLGraphics\Debug\nclgl.lib
+     1>Done Building Project "C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\OpenGL Rasteriser\nclgl\nclgl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.33
